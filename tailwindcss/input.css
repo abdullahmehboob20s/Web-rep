@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* page_help_faq-1.php ====================== START ====================== */
+
+  .accordions_container {
+    @apply divide-y-2 divide-gray-200;
+  }
+  .accordion_cards {
+    @apply mt-1 space-y-6 divide-y divide-gray-200;
+  }
+
+  .accordion_card {
+    @apply text-lg;
+  }
+
+  .accordion_card_button {
+    @apply text-left w-full flex justify-between items-start text-gray-400;
+  }
+
+  .accordion_card_icon {
+    @apply ml-6 h-7 flex items-center;
+  }
+
+  .accordion_card_icon_svg {
+    @apply rotate-0 h-6 w-6 transform;
+  }
+
+  .accordion_body {
+    @apply mt-2 pr-12;
+  }
+
+  .accordion_body_text {
+    @apply text-base text-gray-500;
+  }
+
+  .faq_sidebar {
+    @apply pt-8 pl-6 pr-6 pb-8 overflow-y-auto bg-slate-50;
+  }
+
+  /* page_help_faq-1.php ====================== END ====================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+
+  /* page_help_about-1.php ====================== START's ====================== */
+
+  .help_center_card {
+    @apply pt-6;
+  }
+
+  .help_center_card_desc {
+    @apply text-base text-gray-500 mt-2 pr-4;
+  }
+
+  .help_center_figure {
+    @apply mt-2 mb-2 bg-slate-100;
+  }
+
+  /* page_help_about-1.php ====================== END's ====================== */
+
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+
+  /* element_pager.php ====================== START's ====================== */
+
+  .pagination {
+    @apply border-t border-gray-200 flex items-center justify-between;
+  }
+
+  .pagination-side-box {
+    @apply -mt-px w-0 flex-1 flex;
+  }
+  .pagination-side-box {
+    @apply -mt-px w-0 flex-1 flex;
+  }
+  .pagination-side-box.right {
+    @apply justify-end;
+  }
+
+  .pagination-btn {
+    @apply border-t-2 px-5 border-transparent py-4 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300;
+  }
+
+  .pagination-btn-icon {
+    @apply h-5 w-5 text-gray-400;
+  }
+
+  .pagination-pages {
+    @apply hidden md:-mt-px md:flex;
+  }
+  .pagination-page-btn {
+    @apply border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300 border-t-2 py-4 px-4 inline-flex items-center text-sm font-medium;
+  }
+
+  .pagination-page-btn.active {
+    @apply border-indigo-500 text-indigo-600;
+  }
+  .pagination-page-btn.dotted {
+    @apply border-transparent text-gray-500 border-t-2 py-4 px-4 inline-flex items-center text-sm font-medium;
+  }
+
+  /* element_pager.php ====================== END's ====================== */
+
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+
+  /* element_help_sidebar.php ====================== START's ====================== */
+
+  .sidebar {
+    @apply text-base lg:text-sm;
+  }
+
+  .sidebar > ul[role="list"] {
+    @apply space-y-9;
+  }
+
+  .sidebar_links_list {
+    @apply mt-2 ml-6 space-y-2 border-l-2 border-slate-100 dark:border-slate-800 lg:mt-4 lg:space-y-4 lg:border-slate-200;
+  }
+
+  .sidebar_links_title {
+    @apply bg-slate-100 hover:text-gray-900 hover:bg-slate-200 flex items-center px-2 py-2 text-sm font-medium rounded-md;
+  }
+  .sidebar_links_title_icon {
+    @apply text-slate-500 mr-2 flex-shrink-0 h-6 w-6;
+  }
+
+  .sidebar_links_title span {
+    @apply flex-1;
+  }
+
+  .sidebar-link {
+    @apply block w-full pl-3.5 before:pointer-events-none before:absolute before:-left-1 before:top-1/2 before:h-1.5 before:w-1.5 before:-translate-y-1/2 before:rounded-full text-slate-500 before:hidden before:bg-slate-700 hover:text-slate-300 hover:before:block dark:text-slate-400 dark:before:bg-slate-300 dark:hover:text-slate-600;
+  }
+
+  /* element_help_sidebar.php ====================== END's ====================== */
+
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+}
