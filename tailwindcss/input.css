@@ -147,4 +147,110 @@
   /* ============================================================================================================== */
   /* ============================================================================================================== */
   /* ============================================================================================================== */
+
+  /* page_help_contact.php ====================== START's ====================== */
+
+  .contact-subtitle {
+    @apply mt-4 text-base text-gray-500 sm:mt-3;
+  }
+
+  .contact-form {
+    @apply mt-9 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8;
+  }
+
+  .contact-label {
+    @apply block text-sm font-medium text-gray-700;
+  }
+
+  .contact-input {
+    @apply block w-full shadow-sm sm:text-sm focus:ring-indigo-500 focus:border-indigo-500 border-gray-300 rounded-md;
+  }
+
+  .contact-input-wrapper {
+    @apply sm:col-span-2;
+  }
+
+  .contact-teller {
+    @apply text-sm text-gray-500;
+  }
+
+  .contact-textarea {
+    @apply block w-full shadow-sm sm:text-sm focus:ring-indigo-500 focus:border-indigo-500 border border-gray-300 rounded-md;
+  }
+
+  .contact-chooser {
+    @apply mt-4 grid grid-cols-1 gap-y-4;
+  }
+
+  .contact-radio {
+    @apply focus:ring-indigo-500 h-4 w-4 text-indigo-600 border-gray-300;
+  }
+
+  .contact-radio-title {
+    @apply block text-sm text-gray-700;
+  }
+
+  /* page_help_contact.php ====================== END's ====================== */
+
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+
+  /* page_settings.php ====================== START's ====================== */
+
+  .setting-content-wrapper {
+    @apply divide-y divide-gray-200;
+  }
+
+  .setting-subtitle {
+    @apply text-base text-gray-500;
+  }
+
+  .setting-checkbox {
+    @apply flex items-center h-5;
+  }
+
+  .setting-checkbox input {
+    @apply focus:ring-indigo-500 h-4 w-4 text-indigo-600 border-gray-300 rounded;
+  }
+
+  .setting-checkbox-title {
+    @apply font-medium text-gray-900;
+  }
+
+  .setting-plan-table {
+    @apply relative border p-4 flex flex-col cursor-pointer md:pl-4 md:pr-6 md:grid md:grid-cols-4 focus:outline-none;
+  }
+
+  .setting-table-column1 {
+    @apply flex items-center text-sm;
+  }
+
+  .setting-table-checkbox {
+    @apply h-4 w-4 text-orange-500 border-gray-300 focus:ring-gray-900;
+  }
+
+  .setting-plan-type {
+    @apply ml-3 setting-checkbox-title;
+  }
+
+  .setting-plan-duration {
+    @apply ml-6 pl-1 text-sm md:ml-0 md:pl-0 md:text-left;
+  }
+
+  .setting-plan-images {
+    @apply ml-6 pl-1 text-sm md:ml-0 md:pl-0 md:text-right;
+  }
+
+  .setting-cancel-btn {
+    @apply bg-white border border-gray-300 rounded-md shadow-sm py-2 px-4 inline-flex justify-center text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-500;
+  }
+
+  /* page_settings.php ====================== END's ====================== */
+
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
+  /* ============================================================================================================== */
 }

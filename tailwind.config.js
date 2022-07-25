@@ -1,8 +1,15 @@
+const colors = require("tailwindcss/colors");
+
 module.exports = {
   mode: "jit",
   content: ["./*.{html,js,php}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        sky: colors.sky,
+        teal: colors.teal,
+      },
+    },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
 };
