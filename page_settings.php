@@ -108,7 +108,7 @@
 
                 <ul role="list" class="mt-4 ml-8 setting-content-wrapper">
                   <li class="py-3 flex items-center justify-between">
-                    <div class="relative flex items-start">
+                    <div class="relative flex items-start ">
                       <div class="setting-checkbox">
                         <input id="offers" aria-describedby="offers-description" name="offers" type="checkbox"   checked>
                       </div>
@@ -170,7 +170,7 @@
                   <div class="relative bg-white rounded-md -space-y-px">
                     <!-- Checked: "bg-orange-50 border-orange-200 z-10", Not Checked: "border-gray-200" -->
                     <label class="rounded-tl-md rounded-tr-md bg-sky-50 border-sky-200 setting-plan-table">
-                      <span class="setting-table-column1">
+                      <span class="setting-table-column1 ">
                         <input type="radio" name="pricing-plan" value="Startup" class="setting-table-checkbox" aria-labelledby="pricing-plans-0-label" aria-describedby="pricing-plans-0-description-0 pricing-plans-0-description-1">
                         <span id="pricing-plans-0-label" class="setting-plan-type">Basic</span>
                       </span>

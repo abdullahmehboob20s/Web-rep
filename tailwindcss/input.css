@@ -20,6 +20,10 @@
     @apply text-left w-full flex justify-between items-start text-gray-400;
   }
 
+  .accordion_card_button .accordian-card-title {
+    @apply font-medium text-gray-900;
+  }
+
   .accordion_card_icon {
     @apply ml-6 h-7 flex items-center;
   }

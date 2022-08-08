@@ -50,7 +50,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
@@ -67,7 +67,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
@@ -84,7 +84,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
@@ -101,7 +101,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
@@ -130,7 +130,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
@@ -147,7 +147,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
@@ -164,7 +164,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
@@ -181,7 +181,7 @@
           <dt class="accordion_card">
             <!-- Expand/collapse question button -->
             <button type="button" class="accordion_card_button" aria-controls="faq-0" aria-expanded="false">
-              <span class="font-medium text-gray-900"> What's the best thing about Switzerland? </span>
+              <span class="accordian-card-title"> What's the best thing about Switzerland? </span>
               <span class="accordion_card_icon">
                 <svg class="accordion_card_icon_svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"></path>
